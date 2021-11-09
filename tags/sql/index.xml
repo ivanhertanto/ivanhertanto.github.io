@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Ivan - Personal Blog</title>
+    <link>/tags/sql/</link>
+    <description>Recent content in SQL on Ivan - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL</title>
+      <link>/blog/mysql/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mysql/</guid>
+      <description>Cara mengunakan MySQL-cli (command-line) Setelah instal database MySQL secara default kita mendapatkan MySQL-cli terinstal pada system.
+Login pada MySQL-cli sebagai root
+mysql -u root -p Membuat Penguna(User) baru dengan perintah:</description>
+    </item>
+    
+  </channel>
+</rss>

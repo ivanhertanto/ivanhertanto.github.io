@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan - Personal Blog</title>
+    <link>/</link>
+    <description>Recent content on Ivan - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Feb 2021 10:20:19 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ivan Hertanto</title>
+      <link>/author/ivan-hertanto/</link>
+      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
+      
+      <guid>/author/ivan-hertanto/</guid>
+      <description>Nama saya Bernardus Ivan Hertanto, Programmer, Gamer, dan Wirausaha. Hobi membaca light novel seperti Overlord, In Another World With My Smartphone, Arifureta, dan lain lain. Untuk gaming paling banyak di PC dan jenis permainan FPS, RPG, Strategi kalau contoh game mungkin seperti No Man Sky, GTA, Battle Field, dst.</description>
+    </item>
+    
+    <item>
+      <title>Linux tar Command</title>
+      <link>/blog/tar/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tar/</guid>
+      <description>File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.</description>
+    </item>
+    
+    <item>
+      <title>Pengantar Hukum Pajak</title>
+      <link>/blog/pengantar-hukum-pajak/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/pengantar-hukum-pajak/</guid>
+      <description>Pengertian Pajak Pasal 23A UUD 1945 (Amandemem IV) mengatur bahwa Pajak dan pemungutan lain yang bersifat memaksa untuk keperluan Negara diatur dengan undang-undang. Hal ini berarti bahwa semua peraturan perpajakan harus merujuk pada suatu undang-undang dan peraturan hukum di bawahnya sepanajang terdapat pelimpahan dari undang-undang yang mengaturnya.</description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>/blog/mysql/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mysql/</guid>
+      <description>Cara mengunakan MySQL-cli (command-line) Setelah instal database MySQL secara default kita mendapatkan MySQL-cli terinstal pada system.
+Login pada MySQL-cli sebagai root
+mysql -u root -p Membuat Penguna(User) baru dengan perintah:</description>
+    </item>
+    
+    <item>
+      <title>MD5deep</title>
+      <link>/blog/md5deep/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/md5deep/</guid>
+      <description>MD5deep MD5deep adalah aplikasi untuk membuat hashing dari sebuah file, output yang di hasilkan digunakan untuk memverifikasi integritas dari sebuah file.
+instalasi aplikasi sudo apt-get install md5deep membuat hashing dan di simpan dalam file checksums.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/blog/ubuntu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ubuntu/</guid>
+      <description>Langkah-langkah yang Harus dilakukan setelah fresh install os:
+ 1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2. berikan user baru kemampuan root (sudoer) usermod -aG sudo &amp;lt;username&amp;gt; 3.</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>/search/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>ivan.click adalah sebuah personal blog, yang membahas tentang gamming, programming, dan pengetahuan umum. dimana di tulis berdasarkan keperluan pribadi dan tetap dapat di nikmati secara umum.</description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/elements/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>No Search Found</title>
+      <link>/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/404/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

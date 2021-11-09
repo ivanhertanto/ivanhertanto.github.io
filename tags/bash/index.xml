@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Ivan - Personal Blog</title>
+    <link>/tags/bash/</link>
+    <description>Recent content in bash on Ivan - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux tar Command</title>
+      <link>/blog/tar/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tar/</guid>
+      <description>File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.</description>
+    </item>
+    
+    <item>
+      <title>MD5deep</title>
+      <link>/blog/md5deep/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/md5deep/</guid>
+      <description>MD5deep MD5deep adalah aplikasi untuk membuat hashing dari sebuah file, output yang di hasilkan digunakan untuk memverifikasi integritas dari sebuah file.
+instalasi aplikasi sudo apt-get install md5deep membuat hashing dan di simpan dalam file checksums.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/blog/ubuntu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ubuntu/</guid>
+      <description>Langkah-langkah yang Harus dilakukan setelah fresh install os:
+ 1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2. berikan user baru kemampuan root (sudoer) usermod -aG sudo &amp;lt;username&amp;gt; 3.</description>
+    </item>
+    
+  </channel>
+</rss>
