@@ -1,68 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-02T10:20:19+06:00</lastmod>
-  </url><url>
-    <loc>/author/ivan-hertanto/</loc>
-    <lastmod>2021-02-02T10:20:19+06:00</lastmod>
-  </url><url>
-    <loc>/author/</loc>
-    <lastmod>2021-01-26T10:13:00+06:00</lastmod>
-  </url><url>
-    <loc>/tags/bash/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cheat-sheet/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/tar/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sh/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/akutansi/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/pajak/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/pengantar-hukum-pajak/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/mysql/</loc>
-    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sql/</loc>
-    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/md5deep/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/ubuntu/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/search/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-  </url><url>
-    <loc>/elements/</loc>
-  </url><url>
-    <loc>/404/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>/id/sitemap.xml</loc>
+    
+      <lastmod>2021-02-02T10:20:19+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>/en/sitemap.xml</loc>
+    
+      <lastmod>2021-02-02T10:20:19+06:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

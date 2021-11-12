@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sh on Ivan - Personal Blog</title>
+    <title>sh on Ivan Personal Blog</title>
     <link>/tags/sh/</link>
-    <description>Recent content in sh on Ivan - Personal Blog</description>
+    <description>Recent content in sh on Ivan Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
     <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux tar Command</title>
@@ -21,8 +22,7 @@
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/md5deep/</guid>
-      <description>MD5deep MD5deep adalah aplikasi untuk membuat hashing dari sebuah file, output yang di hasilkan digunakan untuk memverifikasi integritas dari sebuah file.
-instalasi aplikasi sudo apt-get install md5deep membuat hashing dan di simpan dalam file checksums.</description>
+      <description>MD5deep MD5deep adalah aplikasi untuk membuat hashing dari sebuah file, output yang di hasilkan digunakan untuk memverifikasi integritas dari sebuah file.</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ instalasi aplikasi sudo apt-get install md5deep membuat hashing dan di simpan da
       
       <guid>/blog/ubuntu/</guid>
       <description>Langkah-langkah yang Harus dilakukan setelah fresh install os:
- 1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2. berikan user baru kemampuan root (sudoer) usermod -aG sudo &amp;lt;username&amp;gt; 3.</description>
+ 1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2.</description>
     </item>
     
   </channel>

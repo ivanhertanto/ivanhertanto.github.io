@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Personal Blog</title>
+    <link>/en/</link>
+    <description>Recent content on Ivan Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 10:20:19 +0600</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ivan Hertanto</title>
+      <link>/en/author/ivan-hertanto/</link>
+      <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
+      
+      <guid>/en/author/ivan-hertanto/</guid>
+      <description>Nama saya Bernardus Ivan Hertanto, Programmer, Gamer, dan Wirausaha. Hobi membaca light novel seperti Overlord, In Another World With My Smartphone, Arifureta, dan lain lain.</description>
+    </item>
+    
+    <item>
+      <title>Linux tar Command</title>
+      <link>/en/blog/tar/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/blog/tar/</guid>
+      <description>File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>/en/search/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/en/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>ivan.click adalah sebuah personal blog, yang membahas tentang gamming, programming, dan pengetahuan umum. dimana di tulis berdasarkan keperluan pribadi dan tetap dapat di nikmati secara umum.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>/en/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/elements/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.</description>
+    </item>
+    
+    <item>
+      <title>Homepage Grid</title>
+      <link>/en/homepage/grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/homepage/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homepage List</title>
+      <link>/en/homepage/list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/homepage/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Search Found</title>
+      <link>/en/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>/en/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/privacy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Terms And Conditions</title>
+      <link>/en/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/terms-conditions/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
+    </item>
+    
+  </channel>
+</rss>

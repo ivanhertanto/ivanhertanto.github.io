@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Akutansi on Ivan - Personal Blog</title>
+    <title>Akutansi on Ivan Personal Blog</title>
     <link>/categories/akutansi/</link>
-    <description>Recent content in Akutansi on Ivan - Personal Blog</description>
+    <description>Recent content in Akutansi on Ivan Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
     <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/akutansi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pengantar Hukum Pajak</title>
@@ -12,7 +13,7 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/pengantar-hukum-pajak/</guid>
-      <description>Pengertian Pajak Pasal 23A UUD 1945 (Amandemem IV) mengatur bahwa Pajak dan pemungutan lain yang bersifat memaksa untuk keperluan Negara diatur dengan undang-undang. Hal ini berarti bahwa semua peraturan perpajakan harus merujuk pada suatu undang-undang dan peraturan hukum di bawahnya sepanajang terdapat pelimpahan dari undang-undang yang mengaturnya.</description>
+      <description>Pengertian Pajak Pasal 23A UUD 1945 (Amandemem IV) mengatur bahwa Pajak dan pemungutan lain yang bersifat memaksa untuk keperluan Negara diatur dengan undang-undang.</description>
     </item>
     
   </channel>
