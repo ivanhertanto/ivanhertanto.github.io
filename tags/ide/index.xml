@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE on Ivan Personal Blog</title>
+    <link>/tags/ide/</link>
+    <description>Recent content in IDE on Ivan Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Code</title>
+      <link>/blog/vscode/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vscode/</guid>
+      <description>Extensions  Auto Rename Tag Bracket Pair Colorizer ES7 React/Redux/GraphQL/React-Native snippets Highlight Matching Tag indent-rainbow Prettier - Code formatter vscode-styled-components   setting JSON { &amp;#34;highlight-matching-tag.</description>
+    </item>
+    
+  </channel>
+</rss>

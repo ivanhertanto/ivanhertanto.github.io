@@ -2,6 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/app/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/blog/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/"
+                />
+  </url><url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/categories/programming/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/blog/vim/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/ivan-hertanto/</loc>
     <lastmod>2021-02-02T10:20:19+06:00</lastmod>
     <xhtml:link
@@ -13,19 +87,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="/author/ivan-hertanto/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-02-02T10:20:19+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/"
                 />
   </url><url>
     <loc>/author/</loc>
@@ -54,32 +115,6 @@
                 href="/tags/bash/"
                 />
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/blog/"
-                />
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/categories/"
-                />
-  </url><url>
     <loc>/tags/cheat-sheet/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -106,19 +141,6 @@
                 href="/blog/tar/"
                 />
   </url><url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/categories/programming/"
-                />
-  </url><url>
     <loc>/tags/sh/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -132,18 +154,20 @@
                 href="/tags/sh/"
                 />
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/tags/"
-                />
+    <loc>/tags/ide/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/vscode/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/windows/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/wsl/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wsl/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/akutansi/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>

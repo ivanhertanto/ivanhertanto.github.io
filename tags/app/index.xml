@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on Ivan Personal Blog</title>
+    <link>/tags/app/</link>
+    <description>Recent content in app on Ivan Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VIM</title>
+      <link>/blog/vim/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vim/</guid>
+      <description>Langkah-langkah yang Harus dilakukan untuk mendapatkan Vim:  install vim (proses ini pada Ubuntu, dan Turunan Linux Debian lainnya):  sudo apt-get install vim menambahkan plugins mengunakan vim plug  curl -fLo ~/.</description>
+    </item>
+    
+    <item>
+      <title>Visual Code</title>
+      <link>/blog/vscode/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vscode/</guid>
+      <description>Extensions  Auto Rename Tag Bracket Pair Colorizer ES7 React/Redux/GraphQL/React-Native snippets Highlight Matching Tag indent-rainbow Prettier - Code formatter vscode-styled-components   setting JSON { &amp;#34;highlight-matching-tag.</description>
+    </item>
+    
+    <item>
+      <title>WSL</title>
+      <link>/blog/wsl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/wsl/</guid>
+      <description>Install Linux Environment untuk Windows 10 Install nodeJS dengan mengunakan nvm (node version manager) lebih baik dengan windows linux subsystem Untuk instalasi kita harus mengaktifkan wsl (windows linux subsystem)</description>
+    </item>
+    
+  </channel>
+</rss>
