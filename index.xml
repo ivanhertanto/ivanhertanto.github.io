@@ -6,7 +6,17 @@
     <description>Recent content on Ivan Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gocryptfs</title>
+      <link>/blog/gocryptfs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gocryptfs/</guid>
+      <description>buat encrypt directory :
+mkdir rahasia_kecil gocryptfs -init rahasia_kecil The “gocryptfs.diriv” is a short binary file, while “gocryptfs.conf” contains settings and information you should keep safe.</description>
+    </item>
+    
     <item>
       <title>VIM</title>
       <link>/blog/vim/</link>
