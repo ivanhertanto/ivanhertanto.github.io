@@ -106,6 +106,9 @@
                 href="/tags/"
                 />
   </url><url>
+    <loc>/blog/vimrc/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/linux/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -186,10 +189,10 @@
     <loc>/tags/windows/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/wsl/</loc>
+    <loc>/tags/wsl/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wsl/</loc>
+    <loc>/blog/wsl/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/akutansi/</loc>

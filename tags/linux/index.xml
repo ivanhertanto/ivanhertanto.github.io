@@ -8,12 +8,22 @@
     <language>id-id</language>
     <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>.vimrc</title>
+      <link>/blog/vimrc/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vimrc/</guid>
+      <description>vimrc &amp;#34; Powerline &amp;#34;set rtp+=/home/pigu/.local/lib/python2.7/site-packages/powerline/bindings/vim &amp;#34;set rtp+=/home/pigu/.local/lib/python2.7/site-packages/powerline/bindings/vim &amp;#34;set laststatus=2 &amp;#34;set t_Co=256 &amp;#34; set ttymouse=xterm2 &amp;#34; enable syntax highlighting let g:airline_theme=&amp;#39;bubblegum&amp;#39; &amp;#34; let g:airline_solarized_bg=&amp;#39;dark&amp;#39; &amp;#34; air-line let g:airline_powerline_fonts = 1 if !</description>
+    </item>
+    
+    <item>
       <title>VIM</title>
       <link>/blog/vim/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/vim/</guid>
-      <description>Langkah-langkah yang Harus dilakukan untuk mendapatkan Vim:  install vim (proses ini pada Ubuntu, dan Turunan Linux Debian lainnya):  sudo apt-get install vim menambahkan plugins mengunakan vim plug  curl -fLo ~/.</description>
+      <description>Langkah-langkah yang Harus dilakukan untuk mendapatkan Vim: install vim (proses ini pada Ubuntu, dan Turunan Linux Debian lainnya):
+sudo apt-get install vim instalasi vim plug curl -fLo ~/.</description>
     </item>
     
     <item>

@@ -8,13 +8,22 @@
     <language>id-id</language>
     <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gocryptfs</title>
+      <title>GOcryptfs</title>
       <link>/blog/gocryptfs/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/gocryptfs/</guid>
-      <description>buat encrypt directory :
+      <description>Buat encrypt directory :
 mkdir rahasia_kecil gocryptfs -init rahasia_kecil The “gocryptfs.diriv” is a short binary file, while “gocryptfs.conf” contains settings and information you should keep safe.</description>
+    </item>
+    
+    <item>
+      <title>.vimrc</title>
+      <link>/blog/vimrc/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/vimrc/</guid>
+      <description>vimrc &amp;#34; Powerline &amp;#34;set rtp+=/home/pigu/.local/lib/python2.7/site-packages/powerline/bindings/vim &amp;#34;set rtp+=/home/pigu/.local/lib/python2.7/site-packages/powerline/bindings/vim &amp;#34;set laststatus=2 &amp;#34;set t_Co=256 &amp;#34; set ttymouse=xterm2 &amp;#34; enable syntax highlighting let g:airline_theme=&amp;#39;bubblegum&amp;#39; &amp;#34; let g:airline_solarized_bg=&amp;#39;dark&amp;#39; &amp;#34; air-line let g:airline_powerline_fonts = 1 if !</description>
     </item>
     
     <item>
@@ -23,7 +32,8 @@ mkdir rahasia_kecil gocryptfs -init rahasia_kecil The “gocryptfs.diriv” is a
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/vim/</guid>
-      <description>Langkah-langkah yang Harus dilakukan untuk mendapatkan Vim:  install vim (proses ini pada Ubuntu, dan Turunan Linux Debian lainnya):  sudo apt-get install vim menambahkan plugins mengunakan vim plug  curl -fLo ~/.</description>
+      <description>Langkah-langkah yang Harus dilakukan untuk mendapatkan Vim: install vim (proses ini pada Ubuntu, dan Turunan Linux Debian lainnya):
+sudo apt-get install vim instalasi vim plug curl -fLo ~/.</description>
     </item>
     
     <item>
@@ -50,7 +60,7 @@ mkdir rahasia_kecil gocryptfs -init rahasia_kecil The “gocryptfs.diriv” is a
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/vscode/</guid>
-      <description>Extensions  Auto Rename Tag Bracket Pair Colorizer ES7 React/Redux/GraphQL/React-Native snippets Highlight Matching Tag indent-rainbow Prettier - Code formatter vscode-styled-components   setting JSON { &amp;#34;highlight-matching-tag.</description>
+      <description>Extensions Auto Rename Tag Bracket Pair Colorizer ES7 React/Redux/GraphQL/React-Native snippets Highlight Matching Tag indent-rainbow Prettier - Code formatter vscode-styled-components setting JSON { &amp;#34;highlight-matching-tag.</description>
     </item>
     
     <item>
@@ -97,7 +107,7 @@ Login pada MySQL-cli sebagai root</description>
       
       <guid>/blog/ubuntu/</guid>
       <description>Langkah-langkah yang Harus dilakukan setelah fresh install os:
- 1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2.</description>
+1. setelah instalasi pertama buat user baru agar tidak mengunakan root adduser &amp;lt;username&amp;gt; 2.</description>
     </item>
     
     <item>
